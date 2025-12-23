@@ -2,7 +2,9 @@
 
 **Have You Tried Turning It Off And On Again?**
 
-A minimalist Python script that toggles the WiFi radio. Fixes most connectivity issues, not for use in production environments.
+A minimalist Python script that toggles the WiFi radio. 
+* Fixes most connectivity issues
+* Not for use in production environments
 
 ## Compatibility
 
